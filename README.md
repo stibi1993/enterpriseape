@@ -29,4 +29,4 @@ Hopp **gravida**
 3. Performance
 4. Place
 
-This is what ruby code woud look like `puts 'Hello World'`
+This is what ruby code woud look like `puts 'Hello World!'`

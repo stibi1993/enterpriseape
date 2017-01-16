@@ -1,24 +1,32 @@
+Enterprise Ape
+==============
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Powerful Software 
+-----------------
 
+### Welcome to the repository 
 
-Welcome to your Rails project on Cloud9 IDE!
+Feel free to access [my portfolio] (http://google.com).
 
-To get started, just do the following:
+> ## Random tEXT
+>
+> rANDOM TEXT , How can IMagine how much I had to do with this repository to create because I have no idea
+>
+> That is the add
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://enterpriseape-tibilla.c9users.io/).
+Hopp **gravida**
 
-Happy coding!
-The Cloud9 IDE team
+###Crazy good software demo
 
+* Rapid development 
++ Tested
+- 24/7 support
 
-## Support & Documentation
+### Reason to choose
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+1. Price
+2. Precision
+3. Performance
+4. Place
+
+This is what ruby code woud look like `puts 'Hello World'`

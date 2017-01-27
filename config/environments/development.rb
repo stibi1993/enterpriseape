@@ -38,10 +38,11 @@ Rails.application.configure do
   
   
   
-  config.action.mailer.default_url_options= { :host => 'localhost:3000'}
-  condfg.action_mailer.delivery_method = :smtp
-  config.action_mailer.perfom_deliveries = true
-
+  config.action_mailer.default_url_options= { :host => 'localhost:3000'}
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.perform_deliveries = true
+  
+ 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 end
